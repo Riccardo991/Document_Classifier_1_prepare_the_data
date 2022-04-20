@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Document_Classifier_1_prepare_the_data", "Document_Classifier_1_prepare_the_data\Document_Classifier_1_prepare_the_data.pyproj", "{4D0E0204-5846-40F7-A3A9-990386FADE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D0E0204-5846-40F7-A3A9-990386FADE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0E0204-5846-40F7-A3A9-990386FADE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {123E6E43-F38E-4E56-8A5A-ADB929A8CE20}
+	EndGlobalSection
+EndGlobal
